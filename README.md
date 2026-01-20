@@ -26,4 +26,12 @@ Total Cost = Distance + α(Traffic) + β(Pollution)
 O(E log V)
 
 ## Sample Input
+4 4
+0 1 5 3 4
+1 2 2 8 6
+0 2 9 2 3
+2 3 4 5 7
+0 3
 
+## Output
+Best Climate-Aware Path: 0 → 2 → 3
